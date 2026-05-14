@@ -1,0 +1,19 @@
+# Build output
+juce-plugin/build/
+
+# Faust library (large binary dep — download separately)
+deps/faust/
+
+# Python
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.xcuserdata
