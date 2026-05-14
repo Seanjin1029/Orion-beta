@@ -1,4 +1,4 @@
-# Ableton AI Plugin
+# orion is not the actual name
 
 Generates Max for Live devices from natural language prompts via Claude API.
 
