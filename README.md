@@ -130,7 +130,6 @@ Response:
 - Ableton Live **Suite** (for Max for Live support)
 - Anthropic API key
 - JUCE 7+ (for building the VST shell)
-
-deps/faust/lib/libfaustwithllvm.a — a 295MB static library that bundles the 
-FAUST compiler and LLVM backend. It's excluded from git (too large); anyone
-building from source needs to download it separately.
+- deps/faust/lib/libfaustwithllvm.a — a 295MB static library that bundles the 
+  FAUST compiler and LLVM backend. It's excluded from git (too large); anyone
+  building from source needs to download it separately.
